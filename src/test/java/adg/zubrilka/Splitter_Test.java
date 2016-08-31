@@ -1,4 +1,4 @@
-package zubrilka;
+package adg.zubrilka;
 
 import java.util.Random;
 
